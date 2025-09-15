@@ -3,14 +3,13 @@
 Welcome to my Machine Learning Portfolio! This repository contains a collection of end-to-end projects that demonstrate my skills in data analysis, feature engineering, machine learning modeling, and deep learning. Each project is self-contained and showcases a different algorithm or technique applied to a real-world dataset.
 
 ---
-## 🚀 Projects Overview
+## 🚀 Overview
 1.  [Earthquake Magnitude Prediction (Regression)](#-1-earthquake-magnitude-prediction)
 2.  [Mushroom Edibility Classification](#-2-mushroom-edibility-classification)
 3.  [SVM Classification Applications](#-3-svm-classification-applications)
 4.  [Almond Variety Classification (Ensemble Methods)](#-4-almond-variety-classification-with-ensemble-methods)
 5.  [Wine Customer Segmentation (K-Means Clustering)](#-5-wine-customer-segmentation-with-k-means-clustering)
-6.  [Heart Disease Prediction (Classification)](#-6-heart-disease-prediction)
-7.  [Tea Leaf Disease Detection (CNN)](#-7-tea-leaf-disease-detection-with-cnns)
+6.  [Tea Leaf Disease Detection (CNN)](#-7-tea-leaf-disease-detection-with-cnns)
 
 ---
 ### 🏛️ **1. Earthquake Magnitude Prediction**
@@ -48,14 +47,7 @@ Welcome to my Machine Learning Portfolio! This repository contains a collection 
 * **Dataset**: `wine-clustering.csv`
 
 ---
-### ❤️ **6. Heart Disease Prediction**
-* **Description**: A classification project focused on predicting the presence of heart disease in patients using medical data. This project demonstrates the use of tree-based models for a critical healthcare application.
-* **Techniques**: Decision Tree Classifier, Random Forest Classifier.
-* **Key Skills**: **Predictive Modeling**, **Decision Trees**, **Random Forest**, **Healthcare Analytics**
-* **Dataset**: `heart.csv`
-
----
-### 🌿 **7. Tea Leaf Disease Detection with CNNs**
+### 🌿 **6. Tea Leaf Disease Detection with CNNs**
 * **Description**: A deep learning project to build a Convolutional Neural Network (CNN) that can classify images of tea leaves into different disease categories. This project highlights skills in computer vision and image data augmentation.
 * **Techniques**: TensorFlow, Keras, CNN, Image Data Augmentation.
 * **Key Skills**: **Deep Learning**, **Computer Vision**, **TensorFlow**, **Keras**, **Image Classification**
